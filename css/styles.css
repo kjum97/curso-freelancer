@@ -176,9 +176,11 @@ h2{
     color: var(--colorPrimario);
     text-align: center;
     margin-top: 0; margin-bottom: 0;
+    font-size: 5rem;
 }
 @media(min-width:768px){
     .curso-encabezado{
+        font-size: 7rem;
         text-align: left;
     }
 }
